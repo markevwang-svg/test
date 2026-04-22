@@ -1,0 +1,6 @@
+{
+  "name": "台灣麻將計分系統 (GAS + Sheets)",
+  "description": "一個基於 Google Apps Script 與 Google Sheets 的台灣麻將計分與戰績管理系統，支援即時結算與歷史紀錄查詢。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
